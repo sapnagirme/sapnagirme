@@ -36,4 +36,7 @@ A complete AI-powered legal intelligence platform
 📫 Reach Out  
 - [LinkedIn](https://www.linkedin.com/in/sapna-girme-3961a523b/)  
 - [Email](mailto:girmesapna@gmail.com)
-- ![](https://komarev.com/ghpvc/?username=sapnagirme&color=blue)
+  
+---
+
+![](https://komarev.com/ghpvc/?username=sapnagirme&color=blue)

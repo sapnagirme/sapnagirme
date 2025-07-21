@@ -1,4 +1,5 @@
 ### Hi, I'm Sapna 👋
+![](https://komarev.com/ghpvc/?username=sapnagirme&color=blue)
 
 I'm a postgraduate in MSc Data Science and Big Data Analytics, passionate about building real-world AI solutions. I love taking ideas from concept to deployment especially in machine learning, deep learning, and NLP.
 

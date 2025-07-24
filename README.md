@@ -1,4 +1,6 @@
 ### Hi, I'm Sapna 👋  
+🌐 [Portfolio](https://sapnagirme.github.io/Portfolio/)
+
 I'm a postgraduate in MSc Data Science and Big Data Analytics, passionate about building real-world AI solutions. I love taking ideas from concept to deployment especially in machine learning, deep learning, and NLP.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sapnagirme&label=Profile%20Views&color=0e75b6&style=flat)
